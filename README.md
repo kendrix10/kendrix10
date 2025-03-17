@@ -4,11 +4,11 @@ Welcome to my coding and analytics playground. This is a space where I am free t
 
 In 2025, here is a snippet of what I am currently working, what I have learned and what I hope to accomplish. Thank you for taking the time to explore my GitHub. 
 
-**🤔 Currently working on**: scRNAseq projects for work
+**🤔 Currently working on**: Various scRNAseq projects to uncover cell-type specific targets for biomarker discovery
 
 **🌱 What I've learned**: ML predictive classifier on Python
 
-**🔭 Hope to accomplish**: Preprocessing and analysis of spatial transcriptomics data
+**🔭 Hope to accomplish**: Develop a preprocessing pipeline to understand and analyse spatial transcriptomics data
 
 <!--
 **kendrix10/kendrix10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
