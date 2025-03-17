@@ -10,8 +10,6 @@ In 2025, here is a snippet of what I am currently working, what I have learned a
 
 **🔭 Hope to accomplish**: Preprocessing and analysis of spatial transcriptomics data
 
-# **👯 Looking to collaborate on**:
-
 <!--
 **kendrix10/kendrix10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
