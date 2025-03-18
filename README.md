@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there 👋
 
 Welcome to my coding and analytics playground. This is a space where I am free to explore the depths of my current skillset and exchange ideas with remarkable people in this space. It is a place of continuous growth and development where we can experiment on techniques and try out different ideas for any projects, developments and challenges for work, school or daily life. 
 
