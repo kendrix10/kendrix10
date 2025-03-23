@@ -6,9 +6,9 @@ In 2025, here is a snippet of what I am currently working, what I have learned a
 
 **🤔 Currently working on**: Various scRNAseq projects to uncover cell-type specific targets for biomarker discovery
 
-**🌱 What I've learned**: ML predictive classifier on Python
+**🌱 What I've learned**: Building simple linear models, classifiers to expand on ML skills
 
-**🔭 Hope to accomplish**: Develop a preprocessing pipeline to understand and analyse spatial transcriptomics data
+**🔭 Hope to accomplish**: Integrating spatial and scRNA data to uncover single-cell spatiotemporal insights
 
 <!--
 **kendrix10/kendrix10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
